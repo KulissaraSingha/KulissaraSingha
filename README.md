@@ -1,6 +1,7 @@
-### Hi there 👋 
-- :sunny: I'm Kulissara, a Data Scientist
-- 📫 Please connect me here : https://www.linkedin.com/in/kulissara-singhakajen/ 
+### Hi there 👋 I'm Kulissara
+#### I am a Junior Data Scientist with Engineer and Business backgrounds. :sunny:
+
+- 🔭 I’m currently working on Human eyes status image classification project
  
 <!--
 **KulissaraSingha/KulissaraSingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
