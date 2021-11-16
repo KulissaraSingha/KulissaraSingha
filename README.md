@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 
+- :sunny: I'm Kulissara, a Data Scientist
+- 📫 Please connect me here : https://www.linkedin.com/in/kulissara-singhakajen/ 
+ 
 <!--
 **KulissaraSingha/KulissaraSingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
