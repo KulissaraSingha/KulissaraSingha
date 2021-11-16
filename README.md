@@ -6,7 +6,7 @@
 
 📫 Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kulissara-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kulissara-singhakajen/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kulissara-singhakajen/)
 
 **Languages and Tools:**  
 
